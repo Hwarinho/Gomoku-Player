@@ -1,1 +1,1 @@
-# CMPUT496-Assignment2
+# Gomoku
