@@ -1,1 +1,1 @@
-# Gomoku
+# AI Gomoku player
